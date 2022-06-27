@@ -1,0 +1,3 @@
+[submodule "Connectus-Django"]
+	path = Connectus-Django
+	url = https://github.com/GopinathCool/Connectus-Django.git
